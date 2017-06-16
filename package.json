@@ -1,0 +1,13 @@
+{
+  "name": "koala",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/balazs4/koala.git",
+  "author": "balazs4 <balazs4web@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-path-match": "^2.0.0",
+    "koa-socket": "^4.4.0"
+  }
+}
